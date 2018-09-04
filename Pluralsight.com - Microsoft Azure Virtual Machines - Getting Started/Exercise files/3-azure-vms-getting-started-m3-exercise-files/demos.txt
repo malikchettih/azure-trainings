@@ -1,0 +1,41 @@
+Module 3: Implementing Configuration Management and Disaster Recovery
+
+Microsoft Azure
+https://azure.microsoft.com/en-us/
+
+Azure Documentation
+https://docs.microsoft.com/en-us/azure/
+
+Azure VM Agents
+https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-classic-agents-and-extensions
+https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-linux-agent-user-guide
+
+Azure VM Extensions
+https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-extensions-features
+
+Stopping vs. Deallocating VMs in Azure
+https://blogs.technet.microsoft.com/gbanin/2015/04/22/difference-between-the-states-of-azure-virtual-machines-stopped-and-stopped-deallocated/
+
+Operations Management Suite (OMS)
+https://www.microsoft.com/en-us/cloud-platform/operations-management-suite
+
+Azure Backup
+https://docs.microsoft.com/en-us/azure/backup/backup-introduction-to-azure-backup
+
+Azure Site Recovery (ASR)
+https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview
+
+Back up a VM in Azure
+https://docs.microsoft.com/en-us/azure/backup/backup-configure-vault
+
+Azure Backup Agent
+https://www.microsoft.com/en-us/download/details.aspx?id=49170
+
+System Center Data Protection Manager (DPM)
+https://technet.microsoft.com/en-us/library/hh758173(v=sc.12).aspx
+
+Azure Backup Server
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-microsoft-azure-backup
+
+Restore a VM in Azure
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-arm-restore-vms

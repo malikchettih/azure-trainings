@@ -1,0 +1,45 @@
+Module 2: Deploying a Highly Available Virtual Machine
+
+Microsoft Azure
+https://azure.microsoft.com/en-us/
+
+Azure Documentation
+https://docs.microsoft.com/en-us/azure/
+
+Visual Studio Code
+https://code.visualstudio.com/
+
+Availability Sets
+https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-manage-availability
+
+Premium Storage and Single Instance High Availability
+https://blogs.technet.microsoft.com/uspartner_ts2team/2016/11/22/azure-single-instance-virtual-machine-sla/
+
+Azure Marketplace Images
+https://azuremarketplace.microsoft.com/en-us/marketplace/apps/category/compute
+
+Deploying a Virtual Machine in Azure
+https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-hero-tutorial
+
+Getting Started with Azure PowerShell Cmdlets
+https://docs.microsoft.com/en-us/powershell/
+
+Azure CLI v2.0
+https://docs.microsoft.com/en-us/cli/azure/install-az-cli2
+https://docs.microsoft.com/en-us/cli/azure/
+
+ARM Templates
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates
+
+Azure Resource Naming Guidelines
+https://docs.microsoft.com/en-us/azure/guidance/guidance-naming-conventions
+
+Network Interface
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface-overview
+
+Set ARM VM Availability Set (Community Script)
+https://gallery.technet.microsoft.com/Set-Azure-Resource-Manager-f7509ec4
+ 
+ Managed Disks
+https://azure.microsoft.com/en-us/services/managed-disks/
+https://docs.microsoft.com/en-us/azure/storage/storage-managed-disks-overview

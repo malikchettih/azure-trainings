@@ -1,0 +1,49 @@
+Module 1: Configuring Network, Security, and Storage
+
+Microsoft Azure
+https://azure.microsoft.com/en-us/
+
+Azure Documentation
+https://docs.microsoft.com/en-us/azure/
+
+Visual Studio Code
+https://code.visualstudio.com/
+
+VSCode Extensions
+https://code.visualstudio.com/Docs/editor/extension-gallery
+
+Virtual Networks
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+
+IPv4 Subnetting Basics
+https://www.techopedia.com/6/28587/internet/8-steps-to-understanding-ip-subnetting
+
+Move an Azure VM to a Different Virtual Network
+https://blogs.msdn.microsoft.com/igorpag/2016/03/13/how-to-change-subnet-and-virtual-network-for-azure-virtual-machines-asm-arm/
+
+Move an Azure VM to a Different Subnet
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-move-vm-role-to-subnet
+
+Azure Resource Manager PowerShell Cmdlets
+https://msdn.microsoft.com/en-us/library/mt125356.aspx
+
+Network Security Groups (NSGs)
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-nsg
+
+Azure Load Balancer and NAT
+https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
+
+Azure Resource Naming Convention
+https://docs.microsoft.com/en-us/azure/guidance/guidance-naming-conventions
+
+Azure Storage
+https://docs.microsoft.com/en-us/azure/storage/storage-introduction
+
+Managed Disks
+https://docs.microsoft.com/en-us/azure/storage/storage-managed-disks-overview
+
+Azure Storage Explorer
+http://storageexplorer.com/
+
+Azure Storage Emulator
+https://docs.microsoft.com/en-us/azure/storage/storage-use-emulator
